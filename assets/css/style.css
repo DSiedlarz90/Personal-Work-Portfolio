@@ -172,12 +172,12 @@ header nav ul li{
     text-shadow: 1px 0 2px rgba(0, 31, 56, .5); 
 }
 #responsive-one {
-    width: 1420px;
-    height: 600px;
+    max-width: 100%;
+    height: auto;
 }
 #responsive-rest {
-    width: 679px;
-    height: 300px;
+    max-width: 100%;
+    height: auto;
 }
 .relative img {
     filter: opacity(70%);
