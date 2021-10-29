@@ -11,8 +11,8 @@
 
 ## Link to Deployed Application
 
-https://dsiedlarz90.github.io/Work-Portfolio/
+https://dsiedlarz90.github.io/Personal-Work-Portfolio/
 
 ## Screenshot of Page
 
-![](./assets/images/screenshot.PNG)
+![ScreenShot](https://github.com/DSiedlarz90/Personal-Work-Portfolio/blob/main/assets/images/screenshot.png)
